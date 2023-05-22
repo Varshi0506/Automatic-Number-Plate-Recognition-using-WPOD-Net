@@ -1,5 +1,4 @@
-## Update
-__(29/7/2020)__
+_
 - Rename `utils.py` to  `local_utils.py` to avoid conflicit with default Python library `utils.py`.
 - Replace error `index out of range` to `No License plate is founded!`.
 - In case error `No License Plate is founded!` popped up, try to adjust Dmin from `get_plate()` function. Keep in mind that larger Dmin means more highly plate's information is lost.
@@ -32,5 +31,4 @@ __(29/7/2020)__
 <p align="center"><img src="./figures/Part3_result.jpg" width=640></p><br>
 
 
-## Credit
-[sergiomsilva](https://github.com/sergiomsilva/alpr-unconstrained)
+
